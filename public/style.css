@@ -1,0 +1,59 @@
+.msg{
+    border: 2px solid rgb(162, 151, 151);
+width: 150px;
+height: 80px;
+margin: 15px;
+border-radius:20px ;
+background-color:blue;
+color: white;
+
+}
+.btn{
+    border-radius: 5px;
+    border: 2px solid black;
+    position: relative;
+    top: 35px; 
+    width: 50px;
+    background-color: black;
+    color: white;
+
+}
+.btn2{
+    border-radius: 5px;
+    border: 2px solid black;
+    position: relative;
+    top: 15px;
+   left: 60px;
+    width: 50px;
+    background-color: black;
+    color: white;
+}
+.chat{
+    border: 3px solid black;
+    width: 300px;
+    background-color: rgb(166, 190, 182);
+    border-radius: 10px;
+    display:inline-block;
+}
+.from{
+    text-align: left;
+    margin: 10px;
+}
+.receive{
+    text-align: right;
+    margin:10px;
+
+}
+.btn1{border-radius: 5px;
+    border: 2px solid black;
+  
+    width: 80px;
+    background-color: black;
+    color: white;
+}
+
+
+body
+{
+    margin: 25px;
+}
